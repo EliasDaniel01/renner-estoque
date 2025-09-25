@@ -17,7 +17,7 @@ Ele permite gerenciar produtos, registrar vendas, cadastrar usuários e acompanh
 ## 🖼️ Interfaces do Sistema
 
 ### Tela de Login
-(Captura de Tela (30).png)
+![Tela de Login](./Captura%20de%20Tela%20(30).png)
 
 ### Tela de Cadastro
 ![Tela de Cadastro](./Captura%20de%20tela%202025-09-18%20085206.png)
