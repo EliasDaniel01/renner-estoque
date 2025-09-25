@@ -1,7 +1,7 @@
 # 👕 Controle de Estoque de Roupas
 
 Este é um sistema simples de **controle de estoque de roupas**, desenvolvido em **Python com Tkinter**.  
-Ele permite gerenciar produtos, registrar vendas e acompanhar o estoque em tempo real.
+Ele permite gerenciar produtos, registrar vendas, cadastrar usuários e acompanhar o estoque em tempo real.
 
 ## ✨ Funcionalidades
 
@@ -11,9 +11,18 @@ Ele permite gerenciar produtos, registrar vendas e acompanhar o estoque em tempo
 - ⚠️ **Avisos Visuais**:
   - Produtos com **estoque zerado** ficam destacados em vermelho.
   - Produtos com **estoque baixo** ficam destacados em amarelo.
+- 🔐 **Cadastro de Usuário** com e-mail e senha.
+- 🔑 **Tela de Login** para autenticação antes de acessar o sistema.
 
-## 🖼️ Interface do Sistema
+## 🖼️ Interfaces do Sistema
 
+### Tela de Login
+![Tela de Login](./4ae9e186-211e-423f-b7fd-541993d12967.png)
+
+### Tela de Cadastro
+![Tela de Cadastro](./Captura%20de%20tela%202025-09-18%20085206.png)
+
+### Tela de Estoque
 ![Tela do Sistema](./Captura%20de%20Tela%20(29).png)
 
 ## 🚀 Tecnologias Utilizadas
