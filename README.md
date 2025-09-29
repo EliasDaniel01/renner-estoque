@@ -29,12 +29,3 @@ Ele permite gerenciar produtos, registrar vendas, cadastrar usuários e acompanh
 
 - **Python 3**
 - **Tkinter** (para interface gráfica)
-
-## 📂 Como Executar
-
-1. Clone este repositório ou baixe os arquivos.
-2. Certifique-se de ter o **Python 3** instalado.
-3. Execute o programa:
-
-   ```bash
-   python main.py
